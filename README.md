@@ -1,9 +1,6 @@
-# base-apparel-coming-soon-page
-"Coming soon" page  with e-mail input form. Input form shows an error message when the input field is empty / the email address is not formatted correctly.
+# Frontend Mentor - Base Apparel coming soon page
 
-
-## Frontend Mentor - Base Apparel coming soon page
-(https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)
+![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
