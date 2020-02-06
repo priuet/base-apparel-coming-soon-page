@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+body {
+    width: 100%;
+}
+.page-wrapper {
+    background: url(images/bg-pattern-desktop.svg) no-repeat;
+    display: flex;
+    justify-content: space-between;
+}
+.page-text {
+    padding: 65px 165px;
+
+}
+
+.logo {
+    padding-bottom: 130px;
+}
+.page-title {
+    font-size: 65px;
+    line-height: 1;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    padding-bottom: 40px;
+}
+.title-light {
+    font-weight: 100;
+    color: hsl(0, 36%, 70%);
+}
+.title-bold {
+    font-weight: 800;
+    color: hsl(0, 6%, 24%);
+}
+.page-subtitle {
+    font-weight: 100;
+    color: hsl(0, 36%, 70%);
+    font-size: 16px;
+    line-height: 1.5;
+    padding-bottom: 40px;
+}
+form {
+    /* width: 87%; */
+    font-size: 20px;
+    padding: 0 0 0 30px;
+    border: hsl(0, 93%, 68%) solid 2px;
+    border-radius: 50px;
+    color: hsl(0, 6%, 24%);
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+input {
+    outline: 0;
+    border: 0;
+    background: transparent;
+}
+.btn__arrow {
+    display: inline-block;
+    background: hsl(0, 93%, 68%);
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, .1);
+    border-radius: 25px;
+    padding: 12px 36px;
+    border: 0;
+}
+
+
+
+
+
+.img-wrapper {
+    width: 40%;
+}
+
+
+
+
+
+
+.footer__wrapper {
+    text-align: center;
+}
+.footer__link a {
+    color: hsl(228, 49%, 61%); 
+    text-decoration: underline;
+}
